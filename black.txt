@@ -1,5 +1,5 @@
 ! Title: 晴雅ADS订阅规则
-! Homepage: https://gitee.com/rssv/qy-ads-rule
+! Homepage: https://github.com/790953214/qy-Ads-Rule
 ! Version: 1.5.0
 ||cfg.imtt.qq.com^
 ||yun-hl.3g.qq.com^
