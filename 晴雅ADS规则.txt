@@ -1,4 +1,4 @@
-! Title: 晴雅ADS规则
+! Title: 晴雅ADS订阅规则
 ! Homepage: https://gitee.com/rssv/qy-ads-rule
 ! Version: 1.5.0
 ||cfg.imtt.qq.com^
