@@ -16,3 +16,6 @@
 QQ交流群：785857484
 
 晴雅QQ：790953214
+
+## 订阅地址
+https://raw.githubusercontent.com/790953214/qy-Ads-Rule/main/black.txt
