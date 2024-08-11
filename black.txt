@@ -470,11 +470,6 @@ ltssjy.qq.com^
 ||220.243.190.8^
 ||220.243.190.7^
 ||122.14.229.147
-122.14.229.149^
-122.14.229.148^
-220.243.190.8^
-220.243.190.7^
-220.243.190.6^
 ||122.14.229.147^
 ||122.14.229.149^
 ||122.14.229.148^
@@ -746,7 +741,7 @@ ltssjy.qq.com^
 ||ads.privacy.qq.com^
 ||getads.tianad.cn^
 ||ads-sg.tiktok.com
-gadx.hubcloud.com.cn^
+||gadx.hubcloud.com.cn^
 ||tv.snssdk.com^
 ||mon.zijieapi.com^
 ||ma.zijieapi.com^
