@@ -1,6 +1,6 @@
 ! Title: 晴雅ADS订阅规则
 ! Homepage: https://github.com/790953214/qy-Ads-Rule
-! Version: 1.5.0
+! Version: 1.5.1
 ||cfg.imtt.qq.com^
 ||yun-hl.3g.qq.com^
 ||disp-qryapi.3g.qq.com^
@@ -747,10 +747,49 @@ ltssjy.qq.com^
 ||ma.zijieapi.com^
 ||monsetting.toutiao.com^
 ||e189.21cn.com^
-||5eucpusr8lbadd6e66vmuv1sok57bf04dcdpidko5hpg5od8erhfuuoo.saxysec.com^
-||mc2jm0545vj420i4qbr2bds8q1pocd8jlfr887i10c0hdlsccqqfun19.saxysec.com^
+||*.saxysec.com^
 ||p3-novel.byteimg.com^
 ||tnc11-bjlgy.zijieapi.com^
 ||tnc3-bjlgy.zijieapi.com^
 ||*.weilayun.com^
 ||p 1-lm.adkwai.com^
+||dldir1v6.qq.com^
+||111.45.69.21^
+||dldir1.qq.com^
+||2409:8702:4860:10::62^
+||vv.video.qq.com/checktime?randnum=*&otype=json&
+||ipv4.gdt.qq.com^
+||aegis.qq.com^
+||monitor.l.qq.com^
+||pbaccess.video.qq.com^
+||canary-acc.video.qq.com^
+||video-mobile-tech-*.shiply-cdn.qq.com^
+||wa.gtimg.com^
+||snowflake.qq.com^
+||appsupport.qq.com^
+||open.gtimg.cn^
+||page-acc.video.qq.com^
+||nc.gdt.qq.com^
+||112.60.14.98^
+||2409:8c54:1040:9::149^
+||111.45.69.159^
+||*miaozhen.com^
+||tytx.m.cn.miaozhen.com^
+||omgid.qq.com^
+||v.gdt.qq.com^
+||cdn-go.cn^
+||p.l.qq.com^
+||acc.qq.com^
+||apd-*.v.smtcdns.com^
+||richmedia.video.qq.com^
+||apd-vlive.apdcdn.tc.qq.com^
+||rumt-zh.com^
+||content.rconfig.qq.com^
+||isrpt-vn.gdt.qq.com^
+||tab.video.qq.com^
+||amsweb-cdn-gz-*.file.myqcloud.com^
+||xs.gdt.qq.com^
+||www.douyin10010.cn^
+||c.l.qq.com^
+||ugc-upload.3g.qq.com^
+||mbd.baidu.com^
