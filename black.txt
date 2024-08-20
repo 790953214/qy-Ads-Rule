@@ -1,6 +1,8 @@
-! Title: 晴雅ADS订阅规则
+! Title: 晴雅广告拦截规则
 ! Homepage: https://github.com/790953214/qy-Ads-Rule
+! Description: qingya
 ! Version: 1.5.1
+! TimeUpdated: 2024-08-21T01:023:50+00:00
 ||cfg.imtt.qq.com^
 ||yun-hl.3g.qq.com^
 ||disp-qryapi.3g.qq.com^
