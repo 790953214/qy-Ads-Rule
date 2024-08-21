@@ -1,7 +1,7 @@
 ! Title: 晴雅广告拦截规则
 ! Homepage: https://github.com/790953214/qy-Ads-Rule
 ! Description: qingya
-! Version: 1.5.1
+! Version: 1.5.2
 ! TimeUpdated: 2024-08-21T01:023:50+00:00
 ||cfg.imtt.qq.com^
 ||yun-hl.3g.qq.com^
@@ -25,7 +25,6 @@
 ||httpring.qq.com^
 ||c.isdspeed.qq.com^
 ||logsdk.qq.com^
-||analytics.map.qq.com^
 ||omgmta.qq.com^
 ||pingfore.qq.com^
 ||pingjs.qq.com^
@@ -568,7 +567,6 @@ ltssjy.qq.com^
 ||alt3-mtalk.google.com^
 ||connectivitycheck.gstatic.com^
 ||play-lh.googleusercontent.com^
-||play.googleapis.com^
 ||emoticon-sns.iqiyi.com^
 ||tkcloud.iqiyi.com^
 ||beacons.gvt2.com^
@@ -647,7 +645,6 @@ ltssjy.qq.com^
 ||vertical-play.iqiyi.com^
 ||muses-ugc.iqiyi.com^
 ||static-s.iqiyi.com^
-||android.googleapis.com^
 ||adx-core.youku.com^
 ||group-ssl-danmu-ori.youku.com^
 ||logrcv.aiclk.com^
@@ -770,6 +767,9 @@ ltssjy.qq.com^
 ||snowflake.qq.com^
 ||appsupport.qq.com^
 ||open.gtimg.cn^
+||c.tobidad.cn^
+||39.96.184.178^
+||39.96.185.90^
 ||page-acc.video.qq.com^
 ||nc.gdt.qq.com^
 ||112.60.14.98^
@@ -779,7 +779,6 @@ ltssjy.qq.com^
 ||tytx.m.cn.miaozhen.com^
 ||omgid.qq.com^
 ||v.gdt.qq.com^
-||cdn-go.cn^
 ||p.l.qq.com^
 ||acc.qq.com^
 ||apd-*.v.smtcdns.com^
@@ -795,3 +794,9 @@ ltssjy.qq.com^
 ||c.l.qq.com^
 ||ugc-upload.3g.qq.com^
 ||mbd.baidu.com^
+||lf6-imcloud-file-sign.bytetos.com^
+||lf6-imcloud-file-sign.bytetos.com.download.ks-cdn.com^
+||k2-dy-icy-ml.gslb.ksyuncdn.com^
+||k2-dy-icy-ml-fclouddns.gslb.new.fclouddns.net^
+||120.238.119.113^
+||2409:8c20:8ab1:203:1::5^
