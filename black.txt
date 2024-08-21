@@ -1,8 +1,8 @@
 ! Title: 晴雅广告拦截规则
 ! Homepage: https://github.com/790953214/qy-Ads-Rule
 ! Description: qingya
-! Version: 1.5.2
-! TimeUpdated: 2024-08-21T01:023:50+00:00
+! Version: 1.5.3
+! TimeUpdated: 2024-08-22T01:023:50+00:00
 ||cfg.imtt.qq.com^
 ||yun-hl.3g.qq.com^
 ||disp-qryapi.3g.qq.com^
@@ -562,24 +562,18 @@ ltssjy.qq.com^
 ||aliyuncoccdncmnet-hn.inter.iqiyi.com^
 ||digitalassetlinks.googleapis.com^
 ||newstreamcdncmnet.inter.iqiyi.com^
-||alt6-mtalk.google.com^
 ||act.vip.iqiyi.com^
-||alt3-mtalk.google.com^
 ||connectivitycheck.gstatic.com^
 ||play-lh.googleusercontent.com^
 ||emoticon-sns.iqiyi.com^
 ||tkcloud.iqiyi.com^
 ||beacons.gvt2.com^
 ||riskip.cupid.iqiyi.com^
-||alt2-mtalk.google.com^
 ||gmscompliance-pa.googleapis.com^
-||mtalk.google.com^
 ||static.iqiyi.com^
-||alt1-mtalk.google.com^
 ||qosp.iqiyi.com^
 ||tracker-sns.iqiyi.com^
 ||subscription.iqiyi.com^
-||alt5-mtalk.google.com^
 ||meta-cdn.video.iqiyi.com^
 ||filter.appstore.vivo.com.cn^
 ||appstoreort-stsdk.vivo.com.cn^
@@ -610,7 +604,6 @@ ltssjy.qq.com^
 ||ip-geo.iqiyi.com^
 ||drml.video.iqiyi.com^
 ||flux.iqiyi.com^
-||alt7-mtalk.google.com^
 ||mshield.baidu.com^
 ||msgv6.qy.net^
 ||cache.video.iqiyi.com^
@@ -620,13 +613,11 @@ ltssjy.qq.com^
 ||liveats-vod.video.iqiyi.com^
 ||search.video.iqiyi.com^
 ||phnpush.iqiyi.com^
-||alt8-mtalk.google.com^
 ||ad.shunchangzhixing.com^
 ||swan-api.iqiyi.com^
 ||api-yuedu.iqiyi.com^
 ||file-yuedu.iqiyi.com^
 ||tnc3-alisc1.zijieapi.com^
-||alt4-mtalk.google.com^
 ||l-rcd.iqiyi.com^
 ||api-t.iqiyi.com^
 ||hotchat-im.iqiyi.com^
