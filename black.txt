@@ -1,7 +1,7 @@
 ! Title: 晴雅广告拦截规则重置版支持IOS🐧538268498
 ! Homepage: http://rssv.cn/adguard/
 ! Description: 反馈群538268498
-! Version: 1.1.13
+! Version: 1.1.14
 ||adtrack.e.kuaishou.com^
 ||az4-upload.ksapisrv.com^
 ||gdfp.gifshow.com^
@@ -403,8 +403,8 @@
 ||ad-sh-sz-zb.wagbridge.tanx.alimama.com^
 ||default.cn.sz.wagbridge.ad.alibabacorp.com.gds.alibabadns.com ^
 ||default.cn.wagbridge.ad.alibabacorp.com.gds.alibabadns.com ^
-|| default.cn.sz.wagbridge.ad.alibabacorp.com^
-|| default.cn.wagbridge.ad.alibabacorp.com^
+||default.cn.sz.wagbridge.ad.alibabacorp.com^
+||default.cn.wagbridge.ad.alibabacorp.com^
 ||df.tanx.com^
 ||ef-dongfeng.tanx.com^
 ||ossgw.alicdn.com^
