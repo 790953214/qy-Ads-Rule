@@ -18,4 +18,4 @@ QQ交流群：785857484
 晴雅QQ：790953214
 
 ## 订阅地址
-http://rssv.cn/adguard/api.php?type=black
+https://gh.llkk.cc/https://raw.githubusercontent.com/790953214/qy-Ads-Rule/refs/heads/main/black.txt
