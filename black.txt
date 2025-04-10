@@ -1,7 +1,7 @@
 ! Description: 反馈群538268498
 ! Homepage: http://rssv.cn/adguard/
 ! Title: 晴雅广告拦截规则重置版支持IOS🐧538268498
-! Version: 1.2.8
+! Version: 1.2.9
 ||*.ads.heytapmobi.com^
 ||*.applovin.com^
 ||*.jomoxc.com^
@@ -264,7 +264,6 @@
 ||img-x.jd.com^
 ||img5.chkaja.com^
 ||ios.bugly.qq.com^
-||ipad^
 ||ipv4.gdt.qq.com^
 ||ipv6.shuzilm.cn^
 ||iqiyi-mipdx.cn.miaozhen.com^
