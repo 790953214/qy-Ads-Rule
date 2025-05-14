@@ -1,10 +1,9 @@
 ! Description: 反馈群538268498
 ! Homepage: http://rssv.cn/adguard/
 ! Title: 晴雅广告拦截规则重置版支持IOS🐧538268498
-! Version: 1.3.4
+! Version: 1.4.0
 ||*.ads.heytapmobi.com^
 ||*.applovin.com^
-||*.jomoxc.com^
 ||*.juicyads.me^
 ||*.voiceads.cn^
 ||*/snscosdownload/*/reserved/*$app=com.tencent.mm
@@ -562,3 +561,44 @@
 ||swallow.kakamobi.cn^
 ||chat-platform-open.kakamobi.cn^
 ||jiaxiao-awd.kakamobi.cn^
+||pangolin.snssdk.com^
+||extlog.snssdk.com^
+||*pglstatp-toutiao.com^
+||*pangolin*toutiao*.com^
+||adashbc.m.taobao.com^
+||tnc3-bjlgy.snssdk.com^
+||mssdk-bu.snssdk.com^
+||amap-aos-info-nogw.amap.com^
+||ads.sohu.com^
+||whjzjx.cn^
+||ads.log.kafka.top^
+||ad.wx.com^
+||wximg.wxs.qq.com^
+||as.weixin.qq.com^
+||ads3-normal-lf.zijieapi.com^
+||tradplusad.com^
+||sb.adtidy.com^
+||miaozhen.com^
+||ads.x.com^
+||adservice.google.com^
+||adsfilebssdlbig.ali.kugou.com.wswebcdn.com^
+||adsfilebssdlbig.ali.kugou.com^
+||adservice.kugou.com^
+||remoteads.oss-cn-beijing.aliyuncs.com^
+||about.ads.microsoft.com^
+||ads-shopping.shouqianba.com^
+||abeacdataort-stsdk.vivo.com.cn^
+||c.sayhi.360.cn^
+||rmonitor.qq.com^
+||download.qidian.com^
+||galileotelemetry.tencent.com^
+||unitelogreport.reader.qq.com^
+||bossaudioandcomic-1252317822.image.myqcloud.com^
+||ywab.reader.qq.com^
+||wkanx.com^
+||dsplog-adnet.vivo.com.cn^
+||monitor.v2.tcyad.com^
+||feeds.vivo.com.cn^
+||feedsplat.vivo.com.cn^
+||abeacdataort-stsdk.vivo.com.cn^
+||ads.sinaimg.cn^
