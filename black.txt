@@ -1,7 +1,7 @@
 ! Description: 反馈群538268498
 ! Homepage: http://rssv.cn/adguard/
 ! Title: 晴雅广告拦截规则重置版支持IOS🐧538268498
-! Version: 1.4.0
+! Version: 1.4.2
 ||*.ads.heytapmobi.com^
 ||*.applovin.com^
 ||*.juicyads.me^
@@ -507,7 +507,6 @@
 ||vod-settings.bytedanceapi.com^
 ||vod-settings.volcvod.com^
 ||vr.gdt.qq.com^
-||vv6.video.qq.com^
 ||w1.gskwai.com^
 ||w1.kskwai.com^
 ||w2.gskwai.com^
@@ -602,3 +601,9 @@
 ||feedsplat.vivo.com.cn^
 ||abeacdataort-stsdk.vivo.com.cn^
 ||ads.sinaimg.cn^
+||ulogs.umengcloud.com^
+||ulogs.umeng.com^
+||guanggao-prod.cn-shanghai.log.aliyuncs.com^
+||fpvideo.shenshiads.com^
+||open-set-api.shenshiads.com^
+||volc.bj.ad.track.66mobi.com^
